@@ -1,4 +1,4 @@
-# CespecializacionT1
+# Especialización en construcción e interpretación de indicadores socioeconómicos
 
 Este repositorio contiene la construcción de variables identificadas en el paper  Garavito, C. (2017). Oferta de trabajo del hogar remunerado en el Perú: 2007-2014. Cuadernos de Economía, 36(72), 265-299.
 
